@@ -207,7 +207,7 @@ EASTL additions/amendments to std STL
 * linear containers guarantee linear memory.
 * vector has push_back(void).
 * vector has a data() function.
-* vector<bool> is actually a vector of type bool.
+* vector\<bool\> is actually a vector of type bool.
 * vector and string have set_capacity().
 * string has sprintf(), append_sprintf(), trim(), compare_i(), make_lower(), make_upper().
 * deque allows you to specify the subarray size.
